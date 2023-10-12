@@ -1,3 +1,5 @@
+// FIND THE AREA OF SQUARE CIRCLE AND RECTANGLE USING FUNCTIONS AND THERE USESS!!
+
 #include <stdio.h>
 float squarearea(float side);
 float circlearea(float radius);
